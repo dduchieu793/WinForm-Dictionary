@@ -1,2 +1,2 @@
 # WinForm-Dictionary
-Personal dictionary help user personalize his/her vocab collection
+Personal dictionary helps user personalize his/her vocab collection
