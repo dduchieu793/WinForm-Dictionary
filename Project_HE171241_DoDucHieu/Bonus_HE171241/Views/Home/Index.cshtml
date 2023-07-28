@@ -1,0 +1,6 @@
+﻿@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+<form id="frmImage" asp-controller="Home" asp-action="Index" method="post">
+    <button name="act" value="minus">Previous</button>
+    <img src="@ViewBag.image" alt="@ViewBag.link"/>
+    <button name="act" value="plus">Next</button>
+</form>
